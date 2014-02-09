@@ -1,0 +1,40 @@
+<html>
+<table>
+<tr>
+<td><a href="http://mail.google.com/mail/#inbox"><img src="email.jpeg"></a></td>
+<td><a href="https://twitter.com/"><img src="twitter.jpeg" alt="twitter" width="300" height="249"></a></td>
+<td><a href="https://web.tweetdeck.com/">TweetDeck</a></td>
+</tr>
+<tr>
+<td><a href="https://twitter.com/"><img src="chelsea_tickets.png" alt="twitter" width="300" height="249"></a></td>
+<td>Chelsea news</td>
+<td>More Chelsea news</td>
+</tr>
+
+<tr>
+<td>Studio dash</td>
+<td>Salisbury and Stonehenge dash
+<a href="http://salisburyandstonehenge.net/wp-admin/"><img src="/home/matt/firefox_home/red_lion.jpg" alt="red lion" width="300" height="249" ></a>
+</td>
+<td><a href="http://mattypenny.net/wp-admin/"><img src="hobnob.jpg"></a></td>
+
+</tr>
+</table>
+</html>
+<!-- Simplenote ? -->
+<!-- Cricket ? -->
+<!-- Twiki ? -->
+<!-- Pinboard ? -->
+<!-- Feedly ? -->
+<!-- Energized about tech ? -->
+<!-- Fairsharemusic ? -->
+
+
+./index.html
+./email.jpeg
+./red_lion.jpg
+./chelsea_tickets.png
+./twitter.jpeg
+./Salisbury-Studio-Theatre.jpg
+
+
